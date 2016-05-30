@@ -39,7 +39,7 @@ public class China
 		new Province{ 
 			province = "内蒙古", 
 			capital = "呼和浩特市", 
-			cities = new string[]{"包头包头市"}, 
+			cities = new string[]{"包头市"}, 
 			type = CityType.Travel },
 		new Province{ 
 			province = "辽宁省", 
