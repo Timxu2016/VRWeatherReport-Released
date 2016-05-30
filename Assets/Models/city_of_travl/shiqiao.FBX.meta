@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 06ad09de4181abc4b876fdd841a441e5
+timeCreated: 1464253868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BaekLim_Bridge_001_Stone_004_003
+    100002: BaekLim_Bridge_001_Stone_004_004
+    100004: BaekLim_Bridge_001_Stone_004_005
+    100006: BaekLim_Bridge_001_Stone_004_006
+    100008: BaekLim_Bridge_001_Stone_004_007
+    100010: BaekLim_Bridge_001_Stone_004_008
+    100012: BaekLim_Bridge_001_Stone_004_009
+    100014: BaekLim_Bridge_001_Stone_004_010
+    100016: BaekLim_Bridge_001_Stone_004_02
+    100018: dingzi
+    100020: Object099
+    100022: Object100
+    100024: Object101
+    100026: //RootNode
+    400000: BaekLim_Bridge_001_Stone_004_003
+    400002: BaekLim_Bridge_001_Stone_004_004
+    400004: BaekLim_Bridge_001_Stone_004_005
+    400006: BaekLim_Bridge_001_Stone_004_006
+    400008: BaekLim_Bridge_001_Stone_004_007
+    400010: BaekLim_Bridge_001_Stone_004_008
+    400012: BaekLim_Bridge_001_Stone_004_009
+    400014: BaekLim_Bridge_001_Stone_004_010
+    400016: BaekLim_Bridge_001_Stone_004_02
+    400018: dingzi
+    400020: Object099
+    400022: Object100
+    400024: Object101
+    400026: //RootNode
+    2300000: BaekLim_Bridge_001_Stone_004_003
+    2300002: BaekLim_Bridge_001_Stone_004_004
+    2300004: BaekLim_Bridge_001_Stone_004_005
+    2300006: BaekLim_Bridge_001_Stone_004_006
+    2300008: BaekLim_Bridge_001_Stone_004_007
+    2300010: BaekLim_Bridge_001_Stone_004_008
+    2300012: BaekLim_Bridge_001_Stone_004_009
+    2300014: BaekLim_Bridge_001_Stone_004_010
+    2300016: BaekLim_Bridge_001_Stone_004_02
+    2300018: dingzi
+    2300020: Object099
+    2300022: Object100
+    2300024: Object101
+    3300000: BaekLim_Bridge_001_Stone_004_003
+    3300002: BaekLim_Bridge_001_Stone_004_004
+    3300004: BaekLim_Bridge_001_Stone_004_005
+    3300006: BaekLim_Bridge_001_Stone_004_006
+    3300008: BaekLim_Bridge_001_Stone_004_007
+    3300010: BaekLim_Bridge_001_Stone_004_008
+    3300012: BaekLim_Bridge_001_Stone_004_009
+    3300014: BaekLim_Bridge_001_Stone_004_010
+    3300016: BaekLim_Bridge_001_Stone_004_02
+    3300018: dingzi
+    3300020: Object099
+    3300022: Object100
+    3300024: Object101
+    4300000: BaekLim_Bridge_001_Stone_004_009
+    4300002: BaekLim_Bridge_001_Stone_004_010
+    4300004: BaekLim_Bridge_001_Stone_004_008
+    4300006: dingzi
+    4300008: BaekLim_Bridge_001_Stone_004_007
+    4300010: Object101
+    4300012: BaekLim_Bridge_001_Stone_004_006
+    4300014: BaekLim_Bridge_001_Stone_004_005
+    4300016: Object100
+    4300018: Object099
+    4300020: BaekLim_Bridge_001_Stone_004_02
+    4300022: BaekLim_Bridge_001_Stone_004_004
+    4300024: BaekLim_Bridge_001_Stone_004_003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

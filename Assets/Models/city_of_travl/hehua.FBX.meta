@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: e99f7d05c9e45c04a8f0350f0be80be8
+timeCreated: 1464253877
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: jiay_zw005_1093
+    100004: jiay_zw005_1094
+    100006: jiay_zw005_1095
+    100008: jiay_zw005_1096
+    100010: jiay_zw005_1097
+    100012: jiay_zw005_1098
+    100014: jiay_zw005_1099
+    100016: jiay_zw005_1100
+    100018: jiay_zw005_1101
+    100020: jiay_zw005_1102
+    100022: jiay_zw005_1103
+    100024: jiay_zw005_1104
+    100026: jiay_zw005_1105
+    100028: yxx_dj002a_1549
+    100030: jiay_zw005_1106
+    100032: jiay_zw005_1107
+    100034: jiay_zw005_1108
+    100036: jiay_zw005_1109
+    100038: jiay_zw005_1110
+    100040: jiay_zw005_1111
+    100042: jiay_zw005_1112
+    100044: jiay_zw005_1113
+    400000: //RootNode
+    400002: jiay_zw005_1093
+    400004: jiay_zw005_1094
+    400006: jiay_zw005_1095
+    400008: jiay_zw005_1096
+    400010: jiay_zw005_1097
+    400012: jiay_zw005_1098
+    400014: jiay_zw005_1099
+    400016: jiay_zw005_1100
+    400018: jiay_zw005_1101
+    400020: jiay_zw005_1102
+    400022: jiay_zw005_1103
+    400024: jiay_zw005_1104
+    400026: jiay_zw005_1105
+    400028: yxx_dj002a_1549
+    400030: jiay_zw005_1106
+    400032: jiay_zw005_1107
+    400034: jiay_zw005_1108
+    400036: jiay_zw005_1109
+    400038: jiay_zw005_1110
+    400040: jiay_zw005_1111
+    400042: jiay_zw005_1112
+    400044: jiay_zw005_1113
+    2300000: jiay_zw005_1093
+    2300002: jiay_zw005_1094
+    2300004: jiay_zw005_1095
+    2300006: jiay_zw005_1096
+    2300008: jiay_zw005_1097
+    2300010: jiay_zw005_1098
+    2300012: jiay_zw005_1099
+    2300014: jiay_zw005_1100
+    2300016: jiay_zw005_1101
+    2300018: jiay_zw005_1102
+    2300020: jiay_zw005_1103
+    2300022: jiay_zw005_1104
+    2300024: jiay_zw005_1105
+    2300026: yxx_dj002a_1549
+    2300028: jiay_zw005_1106
+    2300030: jiay_zw005_1107
+    2300032: jiay_zw005_1108
+    2300034: jiay_zw005_1109
+    2300036: jiay_zw005_1110
+    2300038: jiay_zw005_1111
+    2300040: jiay_zw005_1112
+    2300042: jiay_zw005_1113
+    3300000: jiay_zw005_1093
+    3300002: jiay_zw005_1094
+    3300004: jiay_zw005_1095
+    3300006: jiay_zw005_1096
+    3300008: jiay_zw005_1097
+    3300010: jiay_zw005_1098
+    3300012: jiay_zw005_1099
+    3300014: jiay_zw005_1100
+    3300016: jiay_zw005_1101
+    3300018: jiay_zw005_1102
+    3300020: jiay_zw005_1103
+    3300022: jiay_zw005_1104
+    3300024: jiay_zw005_1105
+    3300026: yxx_dj002a_1549
+    3300028: jiay_zw005_1106
+    3300030: jiay_zw005_1107
+    3300032: jiay_zw005_1108
+    3300034: jiay_zw005_1109
+    3300036: jiay_zw005_1110
+    3300038: jiay_zw005_1111
+    3300040: jiay_zw005_1112
+    3300042: jiay_zw005_1113
+    4300000: jiay_zw005_1102
+    4300002: jiay_zw005_1101
+    4300004: jiay_zw005_1100
+    4300006: yxx_dj002a_1549
+    4300008: jiay_zw005_1099
+    4300010: jiay_zw005_1095
+    4300012: jiay_zw005_1093
+    4300014: jiay_zw005_1097
+    4300016: jiay_zw005_1098
+    4300018: jiay_zw005_1096
+    4300020: jiay_zw005_1094
+    4300022: jiay_zw005_1103
+    4300024: jiay_zw005_1104
+    4300026: jiay_zw005_1105
+    4300028: jiay_zw005_1106
+    4300030: jiay_zw005_1107
+    4300032: jiay_zw005_1108
+    4300034: jiay_zw005_1109
+    4300036: jiay_zw005_1110
+    4300038: jiay_zw005_1111
+    4300040: jiay_zw005_1112
+    4300042: jiay_zw005_1113
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

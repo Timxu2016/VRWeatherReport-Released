@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ceedba747ec097946ac65d1576205d2f
+timeCreated: 1463974916
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nightSkyBox: {fileID: 2100000, guid: 97637a2a763b7f24b8da4e139e4144ca, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

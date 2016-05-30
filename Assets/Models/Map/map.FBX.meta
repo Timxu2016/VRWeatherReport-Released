@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 1d730e1e7db78f844abed320a45eec0e
+timeCreated: 1461664634
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anhui
+    100002: chongqing
+    100004: fujian
+    100006: gansu
+    100008: guangdong
+    100010: guangxi
+    100012: guangzhoushi
+    100014: guizhou
+    100016: hainan
+    100018: hebei
+    100020: helongjiang
+    100022: henan
+    100024: hubei
+    100026: hunan
+    100028: jiangsu
+    100030: jiangxi
+    100032: jiling
+    100034: liaonling
+    100036: //RootNode
+    100038: neimenggu
+    100040: ningxia
+    100042: qinhai
+    100044: shangdong
+    100046: shanghai
+    100048: shanghaishi
+    100050: shanxi
+    100052: shanxi0
+    100054: sichuan
+    100056: taiwan
+    100058: tianjing
+    100060: xinjiang
+    100062: xizang
+    100064: yunnan
+    100066: zhejiang
+    100068: "\u5317\u4EAC\u5E02"
+    100070: "\u5317\u4EAC\u5E02 1"
+    400000: anhui
+    400002: chongqing
+    400004: fujian
+    400006: gansu
+    400008: guangdong
+    400010: guangxi
+    400012: guangzhoushi
+    400014: guizhou
+    400016: hainan
+    400018: hebei
+    400020: helongjiang
+    400022: henan
+    400024: hubei
+    400026: hunan
+    400028: jiangsu
+    400030: jiangxi
+    400032: jiling
+    400034: liaonling
+    400036: //RootNode
+    400038: neimenggu
+    400040: ningxia
+    400042: qinhai
+    400044: shangdong
+    400046: shanghai
+    400048: shanghaishi
+    400050: shanxi
+    400052: shanxi0
+    400054: sichuan
+    400056: taiwan
+    400058: tianjing
+    400060: xinjiang
+    400062: xizang
+    400064: yunnan
+    400066: zhejiang
+    400068: "\u5317\u4EAC\u5E02"
+    400070: "\u5317\u4EAC\u5E02 1"
+    2300000: anhui
+    2300002: chongqing
+    2300004: fujian
+    2300006: gansu
+    2300008: guangdong
+    2300010: guangxi
+    2300012: guangzhoushi
+    2300014: guizhou
+    2300016: hainan
+    2300018: hebei
+    2300020: helongjiang
+    2300022: henan
+    2300024: hubei
+    2300026: hunan
+    2300028: jiangsu
+    2300030: jiangxi
+    2300032: jiling
+    2300034: liaonling
+    2300036: neimenggu
+    2300038: ningxia
+    2300040: qinhai
+    2300042: shangdong
+    2300044: shanghai
+    2300046: shanghaishi
+    2300048: shanxi
+    2300050: shanxi0
+    2300052: sichuan
+    2300054: taiwan
+    2300056: tianjing
+    2300058: xinjiang
+    2300060: xizang
+    2300062: yunnan
+    2300064: zhejiang
+    2300066: "\u5317\u4EAC\u5E02"
+    2300068: "\u5317\u4EAC\u5E02 1"
+    3300000: anhui
+    3300002: chongqing
+    3300004: fujian
+    3300006: gansu
+    3300008: guangdong
+    3300010: guangxi
+    3300012: guangzhoushi
+    3300014: guizhou
+    3300016: hainan
+    3300018: hebei
+    3300020: helongjiang
+    3300022: henan
+    3300024: hubei
+    3300026: hunan
+    3300028: jiangsu
+    3300030: jiangxi
+    3300032: jiling
+    3300034: liaonling
+    3300036: neimenggu
+    3300038: ningxia
+    3300040: qinhai
+    3300042: shangdong
+    3300044: shanghai
+    3300046: shanghaishi
+    3300048: shanxi
+    3300050: shanxi0
+    3300052: sichuan
+    3300054: taiwan
+    3300056: tianjing
+    3300058: xinjiang
+    3300060: xizang
+    3300062: yunnan
+    3300064: zhejiang
+    3300066: "\u5317\u4EAC\u5E02"
+    3300068: "\u5317\u4EAC\u5E02 1"
+    4300000: xinjiang
+    4300002: liaonling
+    4300004: neimenggu
+    4300006: guangxi
+    4300008: sichuan
+    4300010: xizang
+    4300012: "\u5317\u4EAC\u5E02"
+    4300014: "\u5317\u4EAC\u5E02"
+    4300016: shanghai
+    4300018: shangdong
+    4300020: jiangsu
+    4300022: anhui
+    4300024: henan
+    4300026: zhejiang
+    4300028: fujian
+    4300030: jiangxi
+    4300032: hunan
+    4300034: hubei
+    4300036: guangdong
+    4300038: hainan
+    4300040: taiwan
+    4300042: guizhou
+    4300044: chongqing
+    4300046: yunnan
+    4300048: shanxi
+    4300050: hebei
+    4300052: tianjing
+    4300054: shanxi0
+    4300056: ningxia
+    4300058: gansu
+    4300060: helongjiang
+    4300062: jiling
+    4300064: qinhai
+    4300066: shanghaishi
+    4300068: guangzhoushi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
